@@ -1,4 +1,4 @@
-# Minesweeper in Text mode
+# Minesweeper (in Text mode)
 
 # Language: Ruby
 
@@ -16,7 +16,7 @@
  /help or /h - shows this help
 
 #Look and feel:
-Text below contains table in text mode, you might need to switch to Raw mode to see them prpperely
+(Text below contains tables in text mode, you might need to switch to Raw mode to see them prpperely)
 
 > Type your command, then press <Enter>: saa
   SAA => Show cell A,A
