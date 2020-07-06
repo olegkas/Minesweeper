@@ -17,7 +17,7 @@
 
 #Look and feel:
 (Text below contains tables in text mode, you might need to switch to Raw mode to see them prpperely)
-
+```bash
 > Type your command, then press <Enter>: saa
   SAA => Show cell A,A
 
@@ -65,3 +65,4 @@
      A   B   C   D   E   F   G   H
 
 > Type your command, then press <Enter>:
+```
